@@ -36,8 +36,8 @@
 ---
 
 ## 🚀 **Projetos Recentes**
-🔹 [Sistema de Gestão Empresarial](https://github.com/Laurentx1/projeto-empresa) 📊  
-🔹 [API Rest para E-commerce](https://github.com/Laurentx1/api-ecommerce) 🛒  
+🔹 [Sistema de Gestão Empresarial](https://github.com/Laurentx1/Scrum_final_infra) 📊  
+🔹 [API Rest para Foco com música](https://github.com/Laurentx1/Focus_timer_and_music_lofi) 🛒  
 🔹 [Portfólio Pessoal](https://github.com/Laurentx1/portfolio) 🎨  
 
 ---
