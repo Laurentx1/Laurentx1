@@ -38,11 +38,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laurentx1&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Laurentx1&theme=dark"/>
-</div>
 
 ---
 
