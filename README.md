@@ -49,7 +49,7 @@
 🔹 [Portfólio Pessoal](https://github.com/Laurentx1/portfolio) 🎨  
 
 ---
-s
+
 ## 🏆 **Conquistas**
 ✅ Experiência em desenvolvimento Full Stack  
 ✅ Trabalhando com sistemas corporativos e automação  
