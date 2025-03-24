@@ -54,6 +54,7 @@
 ✅ Experiência em desenvolvimento Full Stack  
 ✅ Trabalhando com sistemas corporativos e automação  
 ✅ Sempre atualizado com as novidades do mercado  
+✅ Administrador de banco de dados (Oracle Linux e Windows e Server)
 
 ---
 
