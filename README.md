@@ -10,7 +10,10 @@
 
 ## 🏗️ **Projetos em Andamento**
 - 📌 **Desenvolvimento de Portais da Transparência** em mais de **20 cidades**, garantindo que **prefeituras e câmaras municipais** possam utilizá-los de forma eficiente.  
-- 📌 **Desenvolvimento e melhoria de um App** integrado ao **Portal da Transparência** de uma cidade, focado no **SUS**, permitindo que a população tenha mais acesso e benefícios.  
+- 📌 **Desenvolvimento e melhoria de um App** integrado ao **Portal da Transparência** de uma cidade, focado no **SUS**, permitindo que a população tenha mais acesso e benefícios.
+- 📌 🚀 Novo projeto em desenvolvimento! **[VERSTAPPEN](https://github.com/Laurentx1/VERSTAPPEN)** 
+- 📌 **Desenvolvimento de um site para E-commerce** 🛒 Criando uma plataforma para lojas venderem online de forma eficiente.  
+
 
 ---
 
