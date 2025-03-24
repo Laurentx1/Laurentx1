@@ -4,7 +4,7 @@
 🔹 Trabalhando com **Java, Spring Boot, Python, Angular, React, Node.js e Laravel**  
 🔹 Sempre aprendendo algo novo e buscando desafios!  
 
-![Background GIF](https://media.tenor.com/YcI-Ff3zvXYAAAAC/enduring-sword-talon.gif)
+![Background GIF]([https://media.tenor.com/YcI-Ff3zvXYAAAAC/enduring-sword-talon.gif](https://imgur.com/a/lN42PJ8))
 
 ---
 
