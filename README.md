@@ -4,7 +4,7 @@
 🔹 Trabalhando com **Java, Spring Boot, Python, Angular, React, Node.js e Laravel**  
 🔹 Sempre aprendendo algo novo e buscando desafios!  
 
-Gif Background - [![GIF do Talon](https://i.imgur.com/Fj7er9U.gif)](https://imgur.com/Fj7er9U)
+[![GIF do Talon](https://i.imgur.com/Fj7er9U.gif)](https://imgur.com/Fj7er9U)
 
 ---
 
