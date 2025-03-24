@@ -4,7 +4,7 @@
 🔹 Trabalhando com **Java, Spring Boot, Python, Angular, React, Node.js e Laravel**  
 🔹 Sempre aprendendo algo novo e buscando desafios!  
 
-![Background GIF]([https://imgur.com/a/lN42PJ8](https://imgur.com/a/lN42PJ8))
+![Background GIF](<blockquote class="imgur-embed-pub" lang="en" data-id="Fj7er9U"><a href="https://imgur.com/Fj7er9U">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>))
 
 ---
 
