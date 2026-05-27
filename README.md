@@ -30,7 +30,7 @@
 
 ![dbd-loading-screen](loading-screen-dbd.gif)
 
-*"In the fog, only the prepared survive."* 🔪
+*"In the fog, only the prepared survive."* 
 
 </div>
 
@@ -56,7 +56,7 @@ $ cat /etc/profile.d/about.sh
 
 ---
 
-## 🖥️ Stack Principal
+##  Stack Principal
 
 ### 🐧 Linux & Sistemas Operacionais
 
@@ -67,7 +67,7 @@ $ cat /etc/profile.d/about.sh
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### ☁️ Cloud & Infraestrutura
+###  Cloud & Infraestrutura
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -75,15 +75,15 @@ $ cat /etc/profile.d/about.sh
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 📊 Monitoramento & Redes
+###  Monitoramento & Redes
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
-### ⚙️ Automação & Scripts
+###  Automação & Scripts
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -91,12 +91,12 @@ $ cat /etc/profile.d/about.sh
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-### 🤖 IA & LLMs
+###  IA & LLMs
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🛠️ Dev & Ferramentas
+###  Dev & Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -105,11 +105,11 @@ $ cat /etc/profile.d/about.sh
 
 ---
 
-## 🔥 Especialidades em Infra & Automação
+##  Especialidades em Infra & Automação
 
 <div align="center">
 
-| 🌐 Redes & Segurança | 📊 Monitoramento | ⚙️ Automação |
+|  Redes & Segurança |  Monitoramento |  Automação |
 |:---:|:---:|:---:|
 | Firewall (pfSense, iptables) | Grafana Dashboards | Scripts Bash |
 | VPN & Routing | Zabbix Alerting | PowerShell Automation |
@@ -121,7 +121,7 @@ $ cat /etc/profile.d/about.sh
 
 ---
 
-## 🚀 Projetos em Andamento
+##  Projetos em Andamento
 
 ### 🔴 Monitoramento Inteligente de Firewall — Zabbix + n8n + IA + Telegram
 > Pipeline completo de alertas críticos e resposta automatizada
@@ -137,10 +137,10 @@ $ cat /etc/profile.d/about.sh
                         sendo atacada em massa"   dashboard Grafana)
 ```
 
-- 🧠 IA analisa o padrão do alerta e classifica a severidade real
-- 📲 Notificação via **Bot Telegram** com contexto enriquecido
-- 📋 Registro automático de incidentes críticos e near-disasters
-- 🔁 Acionamento de playbooks de resposta via n8n
+-  IA analisa o padrão do alerta e classifica a severidade real
+-  Notificação via **Bot Telegram** com contexto enriquecido
+-  Registro automático de incidentes críticos e near-disasters
+-  Acionamento de playbooks de resposta via n8n
 
 ---
 
@@ -223,7 +223,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -246,7 +246,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 ---
 
-## 🏆 Conquistas
+##  Conquistas
 
 ```
 ✅ Especialista em Linux (Debian, Red Hat, Oracle Linux, Rocky, Arch)
@@ -261,28 +261,21 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 ---
 
-## 🌐 Projetos Recentes
+##  Projetos Recentes
 
-🔹 [Sistema de Gestão Empresarial](https://github.com/Laurentx1/Scrum_final_infra) — Infra & Scrum 📊
-🔹 [Focus Website](https://github.com/Laurentx1/Focus_timer_and_music_lofi) — Timer + Lo-fi 🎵
-🔹 [Portfólio Pessoal](https://github.com/Laurentx1/portfolio) — Me conheça melhor 🎨
+🔹 [Sistema de Gestão Empresarial](https://github.com/Laurentx1/Scrum_final_infra) — Infra & Scrum 
+🔹 [Focus Website](https://github.com/Laurentx1/Focus_timer_and_music_lofi) — Timer + Lo-fi 
 
 ---
 
 <div align="center">
 
-### 🐧 *"In GNU/Linux we trust"*
+### 🐧 *"In Linux we trust"*
 
-```
-      .---.
-     /     \
-     \.@-@./    Talles Gomes
-     /`\_/`\    Analista de Infraestrutura
-    //  _  \\   Cloud · Linux · Automação
-   | \     )|_
-  /`\_`>  <_/ \
-  \__/'---'\__/
-```
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="Tux Linux"/>
+
+**Talles Gomes — Analista de Infraestrutura**
+**Cloud · Linux · Automação**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/talles-gomes1/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laurentx1)
