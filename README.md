@@ -31,7 +31,7 @@
 
 ![dbd-loading-screen](loading-screen-dbd.gif)
 
-*"In the fog, only the prepared survive."* 🔪
+*"In the fog, only the prepared survive."* 
 
 </div>
 
@@ -57,7 +57,7 @@ $ cat /etc/profile.d/about.sh
 
 ---
 
-## 🖥️ Stack Principal
+##  Stack Principal
 
 ### 🐧 Linux & Sistemas Operacionais
 
@@ -67,7 +67,7 @@ $ cat /etc/profile.d/about.sh
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### ☁️ Cloud & Infraestrutura
+###  Cloud & Infraestrutura
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -75,7 +75,7 @@ $ cat /etc/profile.d/about.sh
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 📊 Monitoramento & Redes
+###  Monitoramento & Redes
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
@@ -83,19 +83,19 @@ $ cat /etc/profile.d/about.sh
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
-### ⚙️ Automação & Scripts
+###  Automação & Scripts
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 🤖 IA & LLMs
+###  IA & LLMs
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🛠️ Dev & Ferramentas
+###  Dev & Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -104,7 +104,7 @@ $ cat /etc/profile.d/about.sh
 
 ---
 
-## 🔥 Especialidades em Infra & Automação
+##  Especialidades em Infra & Automação
 
 <div align="center">
 
@@ -141,7 +141,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -164,7 +164,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 ---
 
-## 🏗️ Projetos em Andamento
+##  Projetos em Andamento
 
 - 🔵 **Portais da Transparência** — Implementação e manutenção em mais de **20 municípios**, garantindo conformidade e disponibilidade para prefeituras e câmaras municipais
 - 🟢 **App SUS + Portal da Transparência** — Integração mobile para facilitar o acesso da população aos serviços de saúde
@@ -173,14 +173,14 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 ---
 
-## 🏆 Conquistas & Certificações
+##  Conquistas & Certificações
 
 ```
 ✅ Especialista em Linux (Debian, Red Hat, Oracle Linux)
 ✅ Infraestrutura Cloud (AWS + Azure)
 ✅ Automação de infraestrutura com Bash, PowerShell e Python
 ✅ Monitoramento avançado com Grafana + Zabbix
-✅ Administrador de Banco de Dados Oracle
+✅ Administrador de Banco de Dados Oracle/PostgreSQL
 ✅ Integração de IA (Claude + ChatGPT) em workflows de infra com n8n
 ✅ Gestão de redes corporativas: firewall, VPN, VLAN, DNS
 ```
@@ -191,8 +191,6 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 🔹 [Sistema de Gestão Empresarial](https://github.com/Laurentx1/Scrum_final_infra) — Infra & Scrum 📊  
 🔹 [Focus Website](https://github.com/Laurentx1/Focus_timer_and_music_lofi) — Timer + Lo-fi 🎵  
-🔹 [Portfólio Pessoal](https://github.com/Laurentx1/portfolio) — Me conheça melhor 🎨
-
 ---
 
 <div align="center">
@@ -213,6 +211,6 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/talles-gomes1/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laurentx1)
 
-**⚡ "Automate everything. Monitor everything. Trust Linux."**
+** "Automate everything. Monitor everything. Trust Linux."**
 
 </div>
