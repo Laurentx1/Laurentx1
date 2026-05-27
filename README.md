@@ -108,7 +108,7 @@ $ cat /etc/profile.d/about.sh
 
 <div align="center">
 
-| 🌐 Redes & Segurança | 📊 Monitoramento | ⚙️ Automação |
+|  Redes & Segurança |  Monitoramento |  Automação |
 |:---:|:---:|:---:|
 | Firewall (pfSense, iptables) | Grafana Dashboards | Scripts Bash |
 | VPN & Routing | Zabbix Alerting | PowerShell Automation |
