@@ -30,7 +30,7 @@
 
 ![dbd-loading-screen](loading-screen-dbd.gif)
 
-*"In the fog, only the prepared survive."* 
+*"In the fog, only the prepared survive."* 🔪
 
 </div>
 
@@ -48,9 +48,10 @@ $ cat /etc/profile.d/about.sh
 ```
 🔹 Analista de Infraestrutura focado em projetos Cloud
 🔹 Especialista em Linux: Debian · Red Hat · Oracle Linux · Arch
-🔹 Monitoramento proativo com Zabbix + Grafana 
+🔹 Automação como filosofia de vida: se pode ser scriptado, será scriptado
+🔹 Monitoramento proativo com Grafana + Zabbix
 🔹 Explorando IA (Claude + ChatGPT) e n8n para automação inteligente
-🔹 Administrador de Bancos de Dados (Oracle Linux, Windows Server e PostgreSQL)
+🔹 Administrador de Bancos de Dados (Oracle Linux, Windows Server)
 ```
 
 ---
@@ -108,7 +109,7 @@ $ cat /etc/profile.d/about.sh
 
 <div align="center">
 
-|  Redes & Segurança |  Monitoramento |  Automação |
+|  Redes & Segurança | 📊 Monitoramento | ⚙️ Automação |
 |:---:|:---:|:---:|
 | Firewall (pfSense, iptables) | Grafana Dashboards | Scripts Bash |
 | VPN & Routing | Zabbix Alerting | PowerShell Automation |
@@ -122,7 +123,7 @@ $ cat /etc/profile.d/about.sh
 
 ##  Projetos em Andamento
 
-###  Monitoramento Inteligente de Firewall — Zabbix + n8n + IA + Telegram
+### 🔴 Monitoramento Inteligente de Firewall — Zabbix + n8n + IA + Telegram
 > Pipeline completo de alertas críticos e resposta automatizada
 
 ```
@@ -143,7 +144,7 @@ $ cat /etc/profile.d/about.sh
 
 ---
 
-###  Script Bash — Monitoramento de Disponibilidade & Instabilidade
+### 🟡 Script Bash — Monitoramento de Disponibilidade & Instabilidade
 
 ```bash
 #!/bin/bash
@@ -251,7 +252,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 ✅ Especialista em Linux (Debian, Red Hat, Oracle Linux, Rocky, Arch)
 ✅ Infraestrutura Cloud (AWS + Azure)
 ✅ Automação de infraestrutura com Bash, PowerShell e Python
-✅ Monitoramento avançado com Zabbix + Grafana + Prometheus
+✅ Monitoramento avançado com Grafana + Zabbix + Prometheus
 ✅ Administrador de Banco de Dados Oracle
 ✅ Integração de IA (Claude + ChatGPT) em workflows de infra com n8n
 ✅ Gestão de redes corporativas: firewall, VPN, VLAN, DNS
@@ -272,19 +273,19 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 ### 🐧 *"In GNU/Linux we trust"*
 
 ```
-    .---.
-   /     \
-   \.@-@./     Talles Gomes
-   /`\_/`\     Analista de Infraestrutura
-  //  _  \\    Cloud · Linux · Automação
- | \     )|_
-/`\_`>  <_/ \
-\__/'---'\__/
+      .---.
+     /     \
+     \.@-@./    Talles Gomes
+     /`\_/`\    Analista de Infraestrutura
+    //  _  \\   Cloud · Linux · Automação
+   | \     )|_
+  /`\_`>  <_/ \
+  \__/'---'\__/
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/talles-gomes1/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laurentx1)
 
-** "Automate everything. Monitor everything. Trust Linux."**
+**⚡ "Automate everything. Monitor everything. Trust Linux."**
 
 </div>
