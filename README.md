@@ -76,8 +76,8 @@ $ cat /etc/profile.d/about.sh
 
 ###  Monitoramento & Redes
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
@@ -251,7 +251,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 ✅ Especialista em Linux (Debian, Red Hat, Oracle Linux, Rocky, Arch)
 ✅ Infraestrutura Cloud (AWS + Azure)
 ✅ Automação de infraestrutura com Bash, PowerShell e Python
-✅ Monitoramento avançado com Grafana + Zabbix + Prometheus
+✅ Monitoramento avançado com Zabbix + Grafana + Prometheus
 ✅ Administrador de Banco de Dados Oracle
 ✅ Integração de IA (Claude + ChatGPT) em workflows de infra com n8n
 ✅ Gestão de redes corporativas: firewall, VPN, VLAN, DNS
@@ -262,9 +262,8 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 ##  Projetos Recentes
 
-🔹 [Sistema de Gestão Empresarial](https://github.com/Laurentx1/Scrum_final_infra) — Infra & Scrum 📊
-🔹 [Focus Website](https://github.com/Laurentx1/Focus_timer_and_music_lofi) — Timer + Lo-fi 🎵
-🔹 [Portfólio Pessoal](https://github.com/Laurentx1/portfolio) — Me conheça melhor 🎨
+🔹 [Sistema de Gestão Empresarial](https://github.com/Laurentx1/Scrum_final_infra) — Infra & Scrum 
+🔹 [Focus Website](https://github.com/Laurentx1/Focus_timer_and_music_lofi) — Timer + Lo-fi 
 
 ---
 
@@ -286,6 +285,6 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/talles-gomes1/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laurentx1)
 
-**⚡ "Automate everything. Monitor everything. Trust Linux."**
+** "Automate everything. Monitor everything. Trust Linux."**
 
 </div>
