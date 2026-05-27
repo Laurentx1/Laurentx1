@@ -1,4 +1,3 @@
-<!-- Banner animado com nome -->
 <div align="center">
 
 ```
@@ -31,7 +30,7 @@
 
 ![dbd-loading-screen](loading-screen-dbd.gif)
 
-*"In the fog, only the prepared survive."* 
+*"In the fog, only the prepared survive."* 🔪
 
 </div>
 
@@ -48,7 +47,7 @@ $ cat /etc/profile.d/about.sh
 
 ```
 🔹 Analista de Infraestrutura focado em projetos Cloud
-🔹 Especialista em Linux: Debian · Red Hat · Oracle Linux
+🔹 Especialista em Linux: Debian · Red Hat · Oracle Linux · Arch
 🔹 Automação como filosofia de vida: se pode ser scriptado, será scriptado
 🔹 Monitoramento proativo com Grafana + Zabbix
 🔹 Explorando IA (Claude + ChatGPT) e n8n para automação inteligente
@@ -57,17 +56,18 @@ $ cat /etc/profile.d/about.sh
 
 ---
 
-##  Stack Principal
+## 🖥️ Stack Principal
 
 ### 🐧 Linux & Sistemas Operacionais
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Oracle Linux](https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-###  Cloud & Infraestrutura
+### ☁️ Cloud & Infraestrutura
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -75,7 +75,7 @@ $ cat /etc/profile.d/about.sh
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-###  Monitoramento & Redes
+### 📊 Monitoramento & Redes
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
@@ -83,19 +83,20 @@ $ cat /etc/profile.d/about.sh
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
-###  Automação & Scripts
+### ⚙️ Automação & Scripts
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-###  IA & LLMs
+### 🤖 IA & LLMs
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
-###  Dev & Ferramentas
+### 🛠️ Dev & Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -104,7 +105,7 @@ $ cat /etc/profile.d/about.sh
 
 ---
 
-##  Especialidades em Infra & Automação
+## 🔥 Especialidades em Infra & Automação
 
 <div align="center">
 
@@ -120,20 +121,101 @@ $ cat /etc/profile.d/about.sh
 
 ---
 
+## 🚀 Projetos em Andamento
+
+### 🔴 Monitoramento Inteligente de Firewall — Zabbix + n8n + IA + Telegram
+> Pipeline completo de alertas críticos e resposta automatizada
+
+```
+[Firewall/pfSense] ──► [Zabbix] ──► [n8n Workflow] ──► [LLM (Claude/GPT)]
+                                           │
+                                    [Análise IA]
+                                           │
+                              ┌────────────┴────────────┐
+                         [Telegram Alert]        [Registro de Desastre]
+                       "🔴 CRÍTICO: Porta 22     (log estruturado +
+                        sendo atacada em massa"   dashboard Grafana)
+```
+
+- 🧠 IA analisa o padrão do alerta e classifica a severidade real
+- 📲 Notificação via **Bot Telegram** com contexto enriquecido
+- 📋 Registro automático de incidentes críticos e near-disasters
+- 🔁 Acionamento de playbooks de resposta via n8n
+
+---
+
+### 🟡 Script Bash — Monitoramento de Disponibilidade & Instabilidade
+
+```bash
+#!/bin/bash
+# health_monitor.sh — Verifica disponibilidade de serviços críticos
+
+SERVICES=("nginx" "postgresql" "zabbix-agent" "docker")
+HOSTS=("192.168.1.1" "192.168.1.10" "192.168.1.20")
+LOG="/var/log/health_monitor.log"
+
+check_service() {
+  systemctl is-active --quiet "$1" \
+    && echo "✅ $1 — OK" \
+    || echo "🔴 $1 — DOWN" | tee -a "$LOG"
+}
+
+check_host() {
+  ping -c 2 -W 1 "$1" &>/dev/null \
+    && echo "✅ $1 — reachable" \
+    || echo "⚠️  $1 — unreachable" | tee -a "$LOG"
+}
+
+for svc in "${SERVICES[@]}"; do check_service "$svc"; done
+for host in "${HOSTS[@]}"; do check_host "$host"; done
+```
+
+---
+
+### 🔵 Script PowerShell — Monitoramento Windows Server
+
+```powershell
+# infra_monitor.ps1 — Health check de servidores Windows
+
+$Services   = @("W32Time", "WinRM", "Spooler", "MSSQLSERVER")
+$Threshold  = 85  # CPU/RAM alert %
+
+function Check-Service($name) {
+    $svc = Get-Service -Name $name -ErrorAction SilentlyContinue
+    if ($svc.Status -eq "Running") {
+        Write-Host "✅ $name — Running" -ForegroundColor Green
+    } else {
+        Write-Host "🔴 $name — STOPPED" -ForegroundColor Red
+        # Trigger Zabbix trap via zabbix_sender
+    }
+}
+
+$cpu = (Get-CimInstance Win32_Processor | Measure-Object -Property LoadPercentage -Average).Average
+$ram = [math]::Round((Get-CimInstance Win32_OperatingSystem |
+       ForEach-Object { ($_.TotalVisibleMemorySize - $_.FreePhysicalMemory) / $_.TotalVisibleMemorySize * 100 }), 2)
+
+if ($cpu -gt $Threshold) { Write-Warning "⚠️  CPU: $cpu% — acima do limite!" }
+if ($ram -gt $Threshold) { Write-Warning "⚠️  RAM: $ram% — acima do limite!" }
+
+foreach ($svc in $Services) { Check-Service $svc }
+```
+
+---
+
 ## 🐧 Terminal Favorites
 
 ```bash
-# Verificando saúde do sistema
+# Saúde geral do sistema
 $ htop && df -h && free -m
 
 # Monitoramento de rede em tempo real
-$ netstat -tulpn | grep LISTEN
+$ ss -tulpn | grep LISTEN
 
-# Deploy rápido com Docker
-$ docker-compose up -d --build
+# Verificar logs do firewall em tempo real
+$ journalctl -fu firewalld | grep -E "REJECT|DROP"
 
-# Automatizando tudo com Bash
-$ chmod +x meu_script.sh && ./meu_script.sh
+# Deploy com Docker
+$ docker-compose up -d --build && docker ps
 
 # Porque Linux é vida 🐧
 $ echo "I use Debian, btw" >> ~/.bashrc
@@ -141,7 +223,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -152,7 +234,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laurentx1&theme=github-dark-blue&border=30363d&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF"/>
+  <img src="https://streak-stats.demolab.com/?user=Laurentx1&theme=github-dark-blue&border=30363d&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF"/>
 
 </div>
 
@@ -164,33 +246,27 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 ---
 
-##  Projetos em Andamento
-
-- 🔵 **Portais da Transparência** — Implementação e manutenção em mais de **20 municípios**, garantindo conformidade e disponibilidade para prefeituras e câmaras municipais
-- 🟢 **App SUS + Portal da Transparência** — Integração mobile para facilitar o acesso da população aos serviços de saúde
-- 🟡 **[VERSTAPPEN](https://github.com/Laurentx1/VERSTAPPEN)** — Novo projeto em desenvolvimento 🚀
-- 🔴 **Plataforma E-commerce** — Solução completa para lojas digitais
-
----
-
-##  Conquistas & Certificações
+## 🏆 Conquistas
 
 ```
-✅ Especialista em Linux (Debian, Red Hat, Oracle Linux)
+✅ Especialista em Linux (Debian, Red Hat, Oracle Linux, Rocky, Arch)
 ✅ Infraestrutura Cloud (AWS + Azure)
 ✅ Automação de infraestrutura com Bash, PowerShell e Python
-✅ Monitoramento avançado com Grafana + Zabbix
-✅ Administrador de Banco de Dados Oracle/PostgreSQL
+✅ Monitoramento avançado com Grafana + Zabbix + Prometheus
+✅ Administrador de Banco de Dados Oracle
 ✅ Integração de IA (Claude + ChatGPT) em workflows de infra com n8n
 ✅ Gestão de redes corporativas: firewall, VPN, VLAN, DNS
+✅ Alertas inteligentes via Telegram Bot com análise LLM
 ```
 
 ---
 
 ## 🌐 Projetos Recentes
 
-🔹 [Sistema de Gestão Empresarial](https://github.com/Laurentx1/Scrum_final_infra) — Infra & Scrum 📊  
-🔹 [Focus Website](https://github.com/Laurentx1/Focus_timer_and_music_lofi) — Timer + Lo-fi 🎵  
+🔹 [Sistema de Gestão Empresarial](https://github.com/Laurentx1/Scrum_final_infra) — Infra & Scrum 📊
+🔹 [Focus Website](https://github.com/Laurentx1/Focus_timer_and_music_lofi) — Timer + Lo-fi 🎵
+🔹 [Portfólio Pessoal](https://github.com/Laurentx1/portfolio) — Me conheça melhor 🎨
+
 ---
 
 <div align="center">
@@ -211,6 +287,6 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/talles-gomes1/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laurentx1)
 
-** "Automate everything. Monitor everything. Trust Linux."**
+**⚡ "Automate everything. Monitor everything. Trust Linux."**
 
 </div>
