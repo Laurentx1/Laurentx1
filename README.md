@@ -249,6 +249,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 ##  Projetos Recentes
 
 🔹 [Sistema de Gestão Empresarial](https://github.com/Laurentx1/Scrum_final_infra) — Infra & Scrum 
+
 🔹 [Focus Website](https://github.com/Laurentx1/Focus_timer_and_music_lofi) — Timer + Lo-fi 
 
 ---
