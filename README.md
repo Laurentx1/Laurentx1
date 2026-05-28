@@ -227,8 +227,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laurentx1&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&border_color=30363d&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurentx1&layout=compact&theme=github_dark&border_color=30363d&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laurentx1&show_icons=true&theme=github_dark"/>
 
 </div>
 
