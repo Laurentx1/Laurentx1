@@ -111,7 +111,7 @@ $ cat /etc/profile.d/about.sh
 
 |  Redes & Segurança |  Monitoramento |  Automação |
 |:---:|:---:|:---:|
-| Firewall (pfSense, iptables) | Grafana Dashboards | Scripts Bash |
+| Firewall (EDGE, pfSense) | Grafana Dashboards | Scripts Bash |
 | VPN & Routing | Zabbix Alerting | PowerShell Automation |
 | DNS / DHCP / NAT | Prometheus Metrics | Python Scripts |
 | VLANs & Switching | Log Aggregation | n8n Workflows |
