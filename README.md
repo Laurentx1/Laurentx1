@@ -259,7 +259,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 ### 🐧 *"In Linux we trust"*
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="120" alt="Tux Linux"/>
+<img src="https://media.giphy.com/media/fsoCk5kgOcYMus09CR/giphy.gif" width="120" alt="Tux Linux"/>
 
 **Talles Gomes — Analista de Infraestrutura**
 **Cloud · Linux · Automação**
