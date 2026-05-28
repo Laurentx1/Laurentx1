@@ -226,7 +226,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laurentx1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=0"/>
+  username=Laurentx1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=0"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Laurentx1&theme=github-dark-blue&border=30363d&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&cache_seconds=0"/>
 </div>
@@ -259,7 +259,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 ### 🐧 *"In Linux we trust"*
 
-<img src="https://media.giphy.com/media/fsoCk5kgOcYMus09CR/giphy.gif" width="120" alt="Tux Linux"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="120" alt="Tux Linux"/>
 
 **Talles Gomes — Analista de Infraestrutura**
 **Cloud · Linux · Automação**
