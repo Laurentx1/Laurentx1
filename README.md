@@ -280,6 +280,6 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/talles-gomes1/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laurentx1)
 
-**⚡ "Automate everything. Monitor everything. Trust Linux."**
+** "Automate everything. Monitor everything. Trust Linux."**
 
 </div>
