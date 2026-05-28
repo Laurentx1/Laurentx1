@@ -239,8 +239,7 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 
 <div align="center">
 
-  ![](https://github-profile-trophy.vercel.app/?username=Laurentx1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
-
+<img src="https://streak-stats.demolab.com?user=Laurentx1&theme=github-dark"/>
 </div>
 
 ---
