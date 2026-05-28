@@ -226,8 +226,6 @@ $ echo "I use Debian, btw" >> ~/.bashrc
 ## GitHub Stats
 
 <div align="center">
-  username=Laurentx1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=0"/>
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=Laurentx1&theme=github-dark-blue&border=30363d&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&cache_seconds=0"/>
 </div>
 
